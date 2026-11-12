@@ -44,8 +44,8 @@ system-monitoring/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd system-monitoring
+   git clone https://github.com/Jiya-k/system-monitoring-script.git
+   cd system-monitoring-script
    ```
 
 2. Give execution permission:
